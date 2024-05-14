@@ -1,5 +1,7 @@
 # Javet Sanitizer
 
+# This project is archived. All features are moved to [swc4j](https://github.com/caoccao/swc4j). Please review [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4) for more details.
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.caoccao.javet.sanitizer/javet-sanitizer?style=for-the-badge)](https://central.sonatype.com/search?q=g:com.caoccao.javet.sanitizer) [![Discord](https://img.shields.io/discord/870518906115211305?label=join%20our%20Discord&style=for-the-badge)](https://discord.gg/R4vvKU96gw) [![Donate](https://img.shields.io/badge/Donate-green?style=for-the-badge)](https://opencollective.com/javet)
 
 [![Build](https://github.com/caoccao/JavetSanitizer/actions/workflows/multiple_build.yml/badge.svg)](https://github.com/caoccao/JavetSanitizer/actions/workflows/multiple_build.yml)
@@ -76,6 +78,7 @@ public static void main(String[] args) {
 
 ## Blog
 
+- [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4)
 - [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
 
 ## Document
