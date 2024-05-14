@@ -1,6 +1,6 @@
 # Javet Sanitizer
 
-<p style="color: yellow; font-size: 36px; font-weight: bold;">This project is archived.</br>All features are moved to <a href="https://github.com/caoccao/swc4j">swc4j</a>.</p>
+<p style="color: yellow; font-size: 28px; font-weight: bold;">This project is archived.</br>All features are moved to <a href="https://github.com/caoccao/swc4j">swc4j</a>.</br>Please review <a href="https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4">Hello Swc4j, Goodbye Antlr</a> for more details.</p>
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.caoccao.javet.sanitizer/javet-sanitizer?style=for-the-badge)](https://central.sonatype.com/search?q=g:com.caoccao.javet.sanitizer) [![Discord](https://img.shields.io/discord/870518906115211305?label=join%20our%20Discord&style=for-the-badge)](https://discord.gg/R4vvKU96gw) [![Donate](https://img.shields.io/badge/Donate-green?style=for-the-badge)](https://opencollective.com/javet)
 
@@ -18,25 +18,25 @@ Javet Sanitizer is designed to protect the script engine from that kind of attac
 
 ## Why not use Babel?
 
-- Babel is too slow.
-- Babel AST cannot be easily imported to JVM.
+* Babel is too slow.
+* Babel AST cannot be easily imported to JVM.
 
 ## Features
 
-- AST Pattern Matching
-- [Built-in Object Protection](docs/features/built_in_object_protection.md)
-- [Keyword Restriction](docs/features/keyword_restriction.md)
-- [Function Restriction](docs/features/function_restriction.md)
-- [Identifier Restriction](docs/features/identifier_restriction.md)
-- [Identifier Deletion](docs/features/identifier_deletion.md)
-- [Identifier Freeze](docs/features/identifier_freeze.md)
-- [Identifier Naming Convention](docs/features/identifier_naming_convention.md)
-- Complete Customization
+* AST Pattern Matching
+* [Built-in Object Protection](docs/features/built_in_object_protection.md)
+* [Keyword Restriction](docs/features/keyword_restriction.md)
+* [Function Restriction](docs/features/function_restriction.md)
+* [Identifier Restriction](docs/features/identifier_restriction.md)
+* [Identifier Deletion](docs/features/identifier_deletion.md)
+* [Identifier Freeze](docs/features/identifier_freeze.md)
+* [Identifier Naming Convention](docs/features/identifier_naming_convention.md)
+* Complete Customization
 
 ## Quick Start
 
-- Follow the [installation](docs/installation.md) to set up the project dependency.
-- Create a Java [file](src/test/java/com/caoccao/javet/sanitizer/tutorials/TutorialQuickStart.java) as follows.
+* Follow the [installation](docs/installation.md) to set up the project dependency.
+* Create a Java [file](src/test/java/com/caoccao/javet/sanitizer/tutorials/TutorialQuickStart.java) as follows.
 
 ```java
 public static void main(String[] args) {
@@ -68,7 +68,7 @@ public static void main(String[] args) {
 }
 ```
 
-- The output is as follows.
+* The output is as follows.
 
 ```java
 1. const a = 1; // Valid.
@@ -78,15 +78,16 @@ public static void main(String[] args) {
 
 ## Blog
 
-- [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
+* [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
+* [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4)
 
 ## Document
 
-- [Installation](docs/installation.md)
-- [Tutorials](docs/tutorials/)
-- [Development](docs/development.md)
-- [Errors](docs/errors.md)
-- [Release Notes](docs/release-notes.md)
+* [Installation](docs/installation.md)
+* [Tutorials](docs/tutorials/)
+* [Development](docs/development.md)
+* [Errors](docs/errors.md)
+* [Release Notes](docs/release-notes.md)
 
 ## License
 
