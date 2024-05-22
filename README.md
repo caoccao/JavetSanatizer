@@ -79,12 +79,17 @@ public static void main(String[] args) {
 ## Blog
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4)
 - [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
 =======
 * [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
 * [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4)
 >>>>>>> 0ddf23b (📃 docs: Add Hello Swc4j, Goodbye Antlr to readme)
+=======
+* [How to Compromise V8 on JVM](https://sjtucaocao.medium.com/how-to-compromise-v8-on-jvm-ceb385572461)
+* [Hello Swc4j, Goodbye Antlr](https://blog.caoccao.com/hello-swc4j-goodbye-antlr-f9a63e45a3d4)
+>>>>>>> 0ddf23b688922285f327e200c5f836bc61df70c1
 
 ## Document
 
